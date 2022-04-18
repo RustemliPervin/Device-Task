@@ -1,0 +1,60 @@
+.three a{
+    border: 1px solid black;
+    border-radius: 18px;
+    background-color: blue;
+}
+.logo{
+    margin-bottom: 15px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.header{
+    border: 1px solid black;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;;
+    height: 80px;
+    max-height: 100%;
+}
+.image img{
+    height: 570px;
+}
+.image{
+    height: 100%;
+    margin-top: 80px;
+    margin-left: 130px;
+}
+.x i{
+    color: blue;
+    font-size: 20px;
+    font-weight: 900;
+    position: absolute;
+    top: 25%;
+    left: 37%;
+}
+.title i{
+    font-size: 60px;
+    color: blueviolet;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.info{
+    text-align: center;
+    height: 200px;
+    max-height: 200px;
+}
+.title-info{
+    margin-top: 20px;
+}
+.one{   
+    border: none;
+}
+.two{
+    border: none;
+}
+.three{
+    border: none;
+}
+.four{
+    border: none;
+}
